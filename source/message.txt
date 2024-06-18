@@ -1,0 +1,1 @@
+This file a simple message file created under source directory.
